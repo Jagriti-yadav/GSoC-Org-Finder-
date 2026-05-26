@@ -2152,12 +2152,15 @@
     "channels": [
       {
         "type": "Slack",
+        "url": "https://slack.openfoodfacts.org/",
         "label": "#off-explorer"
       }
   ],
     "mentors": [
       {
-        "name" : "VaiTon"
+        "name" : "VaiTon",
+        "github" : "VaiTon",
+        "githubUrl": "https://github.com/VaiTon"
       }
     ],
     "mailingLists": [],
